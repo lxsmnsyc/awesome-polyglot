@@ -4,6 +4,9 @@
 ## Table of Contents
 
 * [Languages](#languages)
+  * [JavaScript](#javascript)
+  * [Lua](#lua)
+  * [Multi-target](#multitarget)
 
 ### Languages
 
@@ -36,7 +39,7 @@ Note: Ancestors in the lists are the compile targets, while the descendants are 
   * ##### TypeScript
     - [TypescriptToLua](https://typescripttolua.github.io/) - Write Lua with TypeScript.
 
-* #### Multitarget
+* #### Multi-target
   * [Haxe](https://haxe.org/) - is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler.
   * [Nim](https://nim-lang.org/) - is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. 
   * [pseudo-python](https://github.com/pseudo-lang/pseudo-python) - a restricted python to javascript / c# / go / ruby compiler.
