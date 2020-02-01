@@ -60,6 +60,10 @@ Note: Ancestors in the lists are the compile targets, while the descendants are 
     - [CSharp.lua](https://github.com/yanghuan/CSharp.lua) - The C# to Lua compiler.
   * ##### Rust
     - [Wu](https://github.com/wu-lang/wu) - Rust-like language that compiles to Lua.
+  * ##### ML
+    - [Amulet](https://amulet.works) - is a simple, modern programming language based on the long tradition of the ML family, bringing improvements from the cutting-edge of programming language research.
+
+
 
 * #### Multi-target
   * [Haxe](https://haxe.org/) - is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler.
@@ -72,5 +76,6 @@ Note: Ancestors in the lists are the compile targets, while the descendants are 
   * [JSweet](http://www.jsweet.org/) - A transpiler from Java to TypeScript/JavaScript.
   * [ReasonML](https://reasonml.github.io/) - Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
   * [Netjs](https://github.com/praeclarum/Netjs) - is a .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
+  * [Oczor](https://github.com/ptol/oczor) - is a simple statically typed language that compiles to JavaScript, Lua, Ruby and Emacs Lisp.
 * #### Multi-source
   * [WebSharper](https://github.com/dotnet-websharper/core) - the C#+F#-to-JavaScript framework
